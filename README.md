@@ -24,6 +24,6 @@ Nexitally 开学季优惠活动：🎁充值满1000元 赠送100元账户余额 
 
 ## Nexitally 套餐列表
 
-![nexitally](https://raw.githubusercontent.com/winston779/nexitally/main/nexitally_20231018_1908111.png)
+![nexitally](https://github.com/sshadowrocket/Nexitally/blob/main/nexitally_20231018_1908111.png)
 
 奶昔官网最新地址：[nexitcore.com](https://nxboom.com/signupbyemail.aspx?MemberCode=4d2a0337bc904ce0989324cb29b9242320231018190026)
